@@ -1,0 +1,6 @@
+{
+  "name": "DependencyCheck - Intelligent Dependency Triage & Automated Patch Manager",
+  "description": "Next-generation software supply-chain security platform featuring AST call-tree exploitability analysis, breaking change detection, deterministic sandbox validation, and automated 60%+ PR volume reduction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
